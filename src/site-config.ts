@@ -1,6 +1,6 @@
 export const siteConfig = {
   author: 'Steve Zhou',
-  title: 'Steve‘s Blog',
+  title: 'Steve',
   subtitle: '无人扶我青云志， 我自踏雪至山巅 ！',
   description: '一位充满激情的开发者，专注于跨平台应用的设计与开发，致力于通过技术改善人们的生活。同时是一位数码博主，热爱分享使用心得、数码测评以及开发经验。曾是一名教师，拥有丰富的教学经验，擅长引导和帮助学生。注重用户体验和创新，力求打造功能实用且界面友好的应用程序。',
   image: {
